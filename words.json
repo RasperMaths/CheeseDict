@@ -2383,5 +2383,270 @@
     "cheese": "Gryère",
     "english": "-",
     "wordclass": "-"
+  },
+  {
+    "cheese": "Habanero",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Hafod",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Halloumi",
+    "english": "To have",
+    "wordclass": "vb"
+  },
+  {
+    "cheese": "Harbison",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Harbourne",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Harvest",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Hayloft",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Haystack",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Heidi",
+    "english": "Bread roll, Hector harm",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Herbes",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Hereford",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Herrgardsost",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Herve",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Hidden Falls",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Highway",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Hillis",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Hummelsraften",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Holy Cow",
+    "english": "Religion, Religious",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Hooligan",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Hoop",
+    "english": "Hatred, to Hate",
+    "wordclass": "n/vb"
+  },
+  {
+    "cheese": "Hopyard",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Horizon",
+    "english": "Technology",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Hubbardston",
+    "english": "To dislike",
+    "wordclass": "vb"
+  },
+  {
+    "cheese": "Huntsman",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Hushallsost",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Idaho",
+    "english": "Corn",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Imokilly",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Impromptu",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Infossato",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Innes",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Inverness",
+    "english": "England, English",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Iris",
+    "english": "In",
+    "wordclass": "prep"
+  },
+  {
+    "cheese": "Isabarra",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Islara",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Jalapeño",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Jarlsberg",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Jerni",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Jibreh",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Jubulec",
+    "english": "Jewel, Crystal, (specific type of the aformentioned words)",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Julianna",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Kabritt",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Kaltbach",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Kanafen",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Kanterkaas",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Kashar",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Kashkaval",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Kashta",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Kasseri",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Keens",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Kefalotyri",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Keltic",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Kenne",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Kennebee",
+    "english": "-",
+    "wordclass": "-"
   }
 ]
