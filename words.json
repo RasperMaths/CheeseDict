@@ -711,7 +711,7 @@
   },
   {
     "cheese": "Black Pearl",
-    "english": "Beverage, to drink",
+    "english": "Water, to drink",
     "wordclass": "n/vb"
   },
   {
@@ -935,8 +935,198 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Brussels",
-    "english": "Tall, Big",
+    "cheese": "Brussels Black Pearl",
+    "english": "Sea, Ocean, Lake, Pond",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Brutal",
+    "english": "Angry",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Brindza",
+    "english": "-",
     "wordclass": "-"
+  },
+  {
+    "cheese": "Buche",
+    "english": "Bush",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Bucheret",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bûchette",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bufala",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bufalino",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bufarolo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Buffalo",
+    "english": "Bad",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Buff",
+    "english": "Hard, Strong",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Burgos",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Burrata",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Burwash",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Burwood",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Butte",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Buttercup",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Butterkäse",
+    "english": "Shit, to shit",
+    "wordclass": "n/vb"
+  },
+  {
+    "cheese": "Buttermilk",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Butternut",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Buxton",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bysaslag",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cabecou",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Caboc",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cabot",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cabrales",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cachaille",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Caciobarricato",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Caciobirraio",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Caciobufala",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Caciocavallo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Caciotta",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cacow",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Caerphilly",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cahill",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Caleagno",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Calenzana",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cambozola",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cambus",
+    "english": "Creative",
+    "wordclass": "adj"
   }
 ]
