@@ -1,0 +1,207 @@
+[
+  {
+    "cheese": "Abbot's Gold",
+    "english": "Precious, Valuable",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Abertam",
+    "english": "Mean, Offensive",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Abondance",
+    "english": "Almost, Nearly",
+    "wordclass": "adv"
+  },
+  {
+    "cheese": "Acapella",
+    "english": "Music, Sound",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Acapelladam",
+    "english": "Instrument",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Acapellaggiano",
+    "english": "Digital Instrument, Speaker",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Accasciato",
+    "english": "Bug, Insect",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Ackawi",
+    "english": "Knowledge",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Acorn",
+    "english": "Nut, Legume",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Adelost",
+    "english": "New, Newly",
+    "wordclass": "adj/adv"
+  },
+  {
+    "cheese": "ADL",
+    "english": "Forever, Infinite, Always",
+    "wordclass": "adj/adv"
+  },
+  {
+    "cheese": "ADL Brick",
+    "english": "Immortal",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "ADL Mild Cheddar",
+    "english": "Infinite Luck",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Affidelice",
+    "english": "Disease",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Affineur",
+    "english": "Trouble, Troublesome, Troubling",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Afuega",
+    "english": "Rich",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Aged",
+    "english": "Not, No",
+    "wordclass": "adj/adv"
+  },
+  {
+    "cheese": "Aged Camembert",
+    "english": "No!",
+    "wordclass": "int"
+  },
+  {
+    "cheese": "Aggiano",
+    "english": "Machine",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Ailsa",
+    "english": "Flat, Plane",
+    "wordclass": "adj/n"
+  },
+  {
+    "cheese": "Airag",
+    "english": "Poison, to Poison, Poisonous",
+    "wordclass": "n/vb/adj"
+  },
+  {
+    "cheese": "Airedale",
+    "english": "Air, Wind, to Blow",
+    "wordclass": "n/vb"
+  },
+  {
+    "cheese": "Aisy",
+    "english": "8, eight, eighth",
+    "wordclass": "n/adj/adv"
+  },
+  {
+    "cheese": "Allgauer",
+    "english": "Respect",
+    "wordclass": "n/vb"
+  },
+  {
+    "cheese": "Allium",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Almnas",
+    "english": "Dangerous, Danger, Risk",
+    "wordclass": "adj/n"
+  },
+  {
+    "cheese": "Alpe",
+    "english": "Fat",
+    "wordclass": "adj/n"
+  },
+  {
+    "cheese": "Alpha",
+    "english": "1, One, First, Leader",
+    "wordclass": "n/adj/adv"
+  },
+  {
+    "cheese": "Alpicrème",
+    "english": "Sweet",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Alpine",
+    "english": "Cone, Cone-shaped",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Alpkäse",
+    "english": "Solid",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Alps Rebel",
+    "english": "Savoury, Umami",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Alta",
+    "english": "Tower",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Alverca",
+    "english": "Mammal",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Amalthée",
+    "english": "Reptile",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Amarelo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Ambert",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Ameribella",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "American",
+    "english": "Stupid, Stupidly, Stupidity, Idiot, Moron",
+    "wordclass": "n/adj/adv"
+  },
+  {
+    "cheese": "Ami",
+    "english": "Comrade, Friend, Friendly",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Amish Fro  lic",
+    "english": "-",
+    "wordclass": "-"
+  }
+]
