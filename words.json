@@ -870,8 +870,18 @@
     "wordclass": "p"
   },
   {
+    "cheese": "Brick Devil's Gulch",
+    "english": "His, Her, Hers",
+    "wordclass": "p"
+  },
+  {
     "cheese": "Bricks",
     "english": "They, Them",
+    "wordclass": "p"
+  },
+  {
+    "cheese": "Bricks Devil's Gulch",
+    "english": "Their, Theirs",
     "wordclass": "p"
   },
   {
@@ -885,8 +895,18 @@
     "wordclass": "p"
   },
   {
+    "cheese": "Brie Devil's Gulch",
+    "english": "My, Mine",
+    "wordclass": "p"
+  },
+  {
     "cheese": "Bries",
     "english": "We, Us",
+    "wordclass": "p"
+  },
+  {
+    "cheese": "Bries Devil's Gulch",
+    "english": "Our, Ours",
     "wordclass": "p"
   },
   {
@@ -1743,5 +1763,60 @@
     "cheese": "Dante",
     "english": "South, Down",
     "wordclass": "n/adj/adv"
+  },
+  {
+    "cheese": "Daphne",
+    "english": "Joint, Elbow, Knee, Shoulder",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Davalgjasby",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Dauphin",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Davidstow",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Dehesa",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Delaware",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Delice",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Derhany",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Derby",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Desert",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Devil's Gulch",
+    "english": "To possess",
+    "wordclass": "vb"
   }
 ]
