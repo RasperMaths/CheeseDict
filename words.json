@@ -711,7 +711,7 @@
   },
   {
     "cheese": "Black Pearl",
-    "english": "Water, to drink",
+    "english": "Beverage, Drink, to drink",
     "wordclass": "n/vb"
   },
   {
@@ -955,7 +955,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Brussels Black Pearl",
+    "cheese": "Brussels Pacific",
     "english": "Sea, Ocean, Lake, Pond",
     "wordclass": "n"
   },
@@ -2036,6 +2036,246 @@
   },
   {
     "cheese": "Explorateur",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Farmer",
+    "english": "To farm, Farmer",
+    "wordclass": "vb/n"
+  },
+  {
+    "cheese": "Farmhouse",
+    "english": "House",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Farmerfarmhouse",
+    "english": "Farmhouse",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Fermiere",
+    "english": "Family",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Feta",
+    "english": "But",
+    "wordclass": "conj"
+  },
+  {
+    "cheese": "Ficaccio",
+    "english": "Female",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Fiery Rebel",
+    "english": "Sour",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Fiesta",
+    "english": "Fun, Party",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Figaro",
+    "english": "Fish",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Figue",
+    "english": "Game, to Play",
+    "wordclass": "n/vb"
+  },
+  {
+    "cheese": "Filetta",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Finea",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Finn",
+    "english": "5, Five, Fifth",
+    "wordclass": "n/adj/adv"
+  },
+  {
+    "cheese": "Fior",
+    "english": "Fire, Burn, to burn",
+    "wordclass": "n/vb"
+  },
+  {
+    "cheese": "Fiscalini",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Flagship",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Flashback",
+    "english": "Before, Past, Flashback",
+    "wordclass": "adv/n"
+  },
+  {
+    "cheese": "Flor de Guia",
+    "english": "Pretty",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Folded",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Fondant",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Fontainebleau",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Fontiago",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Fontina",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Forest Rebel",
+    "english": "Nature, natural",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Formagella",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Formaggio di capa",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Forsterkäse",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Fortsonia",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Fougerus",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Fourme",
+    "english": "4, Four, Fourth",
+    "wordclass": "n/adj/adv"
+  },
+  {
+    "cheese": "Fragolone",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Francis",
+    "english": "From",
+    "wordclass": "prep"
+  },
+  {
+    "cheese": "Freya",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Friesago",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Friesla",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Frinault",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Frying",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Funky",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Fynbo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Galbani",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Galette",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Galloway",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Gammelost",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Gamoneu",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Garrotsa",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Gastanberra",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Geitost",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Gippsland",
     "english": "-",
     "wordclass": "-"
   }
