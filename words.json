@@ -121,8 +121,8 @@
   },
   {
     "cheese": "Allium",
-    "english": "-",
-    "wordclass": "-"
+    "english": "All",
+    "wordclass": "adj"
   },
   {
     "cheese": "Almnas",
@@ -1960,6 +1960,11 @@
     "wordclass": "adj"
   },
   {
+    "cheese": "Edithmaggie",
+    "english": "Fly",
+    "wordclass": "n"
+  },
+  {
     "cheese": "Elberton",
     "english": "-",
     "wordclass": "-"
@@ -2756,6 +2761,166 @@
   },
   {
     "cheese": "Laruns",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Lalleria",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Lavistown",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Leafield",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Lebbene",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Legacy",
+    "english": "History",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Legato",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Lemon",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Leonora",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Liburnski",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Liliputas",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Lil Moo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Lincoln Log",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Lincolnshire",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Lindale",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Lindy Hop",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Lingot",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Liptauer",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Livarot",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Llanboidy",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "LLanglofan",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Loddiswell",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Lovra",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Longhorn",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Lost Lake",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Lunetta",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Lyburn",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Maasdam",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Macadamia",
+    "english": "Male",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Madrona",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Maffra",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Maggie",
+    "english": "Maggot",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Mahoe",
     "english": "-",
     "wordclass": "-"
   }
