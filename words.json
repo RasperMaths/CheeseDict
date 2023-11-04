@@ -348,5 +348,125 @@
     "cheese": "Avaxtskyr",
     "english": "-",
     "wordclass": "-"
+  },
+  {
+    "cheese": "Babybel",
+    "english": "Bye",
+    "wordclass": "int"
+  },
+  {
+    "cheese": "Bad Axe",
+    "english": "Failure, to fail",
+    "wordclass": "n/vb"
+  },
+  {
+    "cheese": "Baita",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Baladi",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Balaton",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Balfour",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Baluchon",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bandal",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Banon",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Barambah",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Barberey",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Barber",
+    "english": "Hair",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Barden",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bavely",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Barilotto",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Baron Bigod",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Baronerosso",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Barricato",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bartlett",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Baserri",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Basil",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Basing",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Baskeriu",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Basket",
+    "english": "Bag, Basket",
+    "wordclass": "n"
   }
 ]
