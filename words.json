@@ -140,6 +140,11 @@
     "wordclass": "n/adj/adv"
   },
   {
+    "cheese": "Alpha Breakfast",
+    "english": "Breakfast",
+    "wordclass": "n"
+  },
+  {
     "cheese": "Alpicrème",
     "english": "Sweet",
     "wordclass": "adj"
@@ -812,6 +817,126 @@
   {
     "cheese": "Bourdin",
     "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Boursault",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Boursin",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Brânză",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Brandostur",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Breakfast",
+    "english": "Meal",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Brebirousse",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Brebis",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bresse",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Brewer's Gold",
+    "english": "Vodka",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Brick",
+    "english": "He, She",
+    "wordclass": "p"
+  },
+  {
+    "cheese": "Bricks",
+    "english": "They, Them",
+    "wordclass": "p"
+  },
+  {
+    "cheese": "Bridgewater",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Brie",
+    "english": "I, Me",
+    "wordclass": "p"
+  },
+  {
+    "cheese": "Bries",
+    "english": "We, Us",
+    "wordclass": "p"
+  },
+  {
+    "cheese": "Brillo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Brin",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Brinzu",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Briquette",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Briscola",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Brocciu",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Brousse",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bruder",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Brunost",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Brussels",
+    "english": "Tall, Big",
     "wordclass": "-"
   }
 ]
