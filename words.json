@@ -203,5 +203,95 @@
     "cheese": "Amish Frolic",
     "english": "-",
     "wordclass": "-"
+  },
+  {
+    "cheese": "Amou",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Amsterdammer",
+    "english": "Animal",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Amul",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Anejo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Anneau",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Anster",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Anthotyro",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Aphrodite",
+    "english": "Love, to Love",
+    "wordclass": "n/vb"
+  },
+  {
+    "cheese": "Appalachian",
+    "english": "Rock, Stone, Pebble, Boulder",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Appenzeller",
+    "english": "Whatever",
+    "wordclass": "p/n/int"
+  },
+  {
+    "cheese": "Applewood",
+    "english": "Message, to Message",
+    "wordclass": "n/vb"
+  },
+  {
+    "cheese": "Arådalen",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Aragon",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Ardi Gasna",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Ardrahan",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Ardsallagh",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Armenia",
+    "english": "To forget, Forgetful",
+    "wordclass": "vb/adj"
+  },
+  {
+    "cheese": "Ascutrey",
+    "english": "-",
+    "wordclass": "-"
   }
 ]
