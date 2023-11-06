@@ -3498,5 +3498,360 @@
     "cheese": "Pacific",
     "english": "Water, Wet",
     "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Paesarella",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Paglierino",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Paillot",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Palot",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Pallone",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Paneer",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Panela",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Paniolo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Panquehue",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Paprika",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Parmesan",
+    "english": "Bit, Slightly",
+    "wordclass": "n/adv"
+  },
+  {
+    "cheese": "Parrano",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Paški",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Passendale",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Pastoral",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Patefine",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Pawlet",
+    "english": "Parent",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Pecorino",
+    "english": "To Put, to Place",
+    "wordclass": "vb"
+  },
+  {
+    "cheese": "Pelardon",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Pembrokeshire",
+    "english": "School, to Teach",
+    "wordclass": "n/vb"
+  },
+  {
+    "cheese": "Paramellera",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Penbryn",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Pencarreg",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Pepato",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Perail",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Perlagrigia",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Perroche",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Petida",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Petit",
+    "english": "French",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Pianoforte",
+    "english": "Private",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Piave",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Picobello",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Picolo",
+    "english": "Small",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Pied-de-vent",
+    "english": "Pickle",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Piere",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Pigouille",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Pimento",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Pinconning",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Piora",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Pizy",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Plymouth",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Pobolbin",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Pompeii",
+    "english": "Explosion, to Explode",
+    "wordclass": "n/vb"
+  },
+  {
+    "cheese": "Postel",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Pourly",
+    "english": "Point, Argument",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Prauvie",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Prastost",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "President",
+    "english": "Place",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Processed",
+    "english": "To Process, Processing",
+    "wordclass": "vb/n"
+  },
+  {
+    "cheese": "Promontony",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Provel",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Prondance",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Provoleta",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Provolone",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Pule",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Pyengana",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Pyramide",
+    "english": "3, Three, Third",
+    "wordclass": "n/adj/adv"
+  },
+  {
+    "cheese": "Quadrello",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Quark",
+    "english": "To Ask, Question",
+    "wordclass": "vb/n"
+  },
+  {
+    "cheese": "Quartirolo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Quatre-Vents",
+    "english": "Vehicle",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Queijo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Quercy",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Queso blanco",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Queso iberico",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Rabacal",
+    "english": "Radical",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Ragstone",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Ragusano",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Rasclera",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Reblochon",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Red Leicester",
+    "english": "Lettuce",
+    "wordclass": "n"
   }
 ]
