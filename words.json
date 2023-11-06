@@ -492,7 +492,7 @@
   {
     "cheese": "Bavaria",
     "english": "Fuck, to fuck",
-    "wordclass": "int, vb"
+    "wordclass": "int/vb"
   },
   {
     "cheese": "Bayley",
@@ -3028,5 +3028,475 @@
     "cheese": "Maroilles",
     "english": "-",
     "wordclass": "-"
+  },
+  {
+    "cheese": "Martha",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Mascares",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Mascarpone",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Mastorazio",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Matoca",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Medallion",
+    "english": "To Earn, To Win",
+    "wordclass": "vb"
+  },
+  {
+    "cheese": "Meira",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Melange",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Melinda",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Melville",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Menage",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Mervallack",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Menorita",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Meredith",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Mersey",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Météorite",
+    "english": "Fast, Quick",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Metronome",
+    "english": "Time",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Mettowee",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Meyer",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Mezza Luna",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Midnight",
+    "english": "To Sleep",
+    "wordclass": "vb"
+  },
+  {
+    "cheese": "Mihalic",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Milama",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Milleens",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Millstone",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Mimolette",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Miras",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Minuet",
+    "english": "Minus, Negative, to Subtract",
+    "wordclass": "prep/vb"
+  },
+  {
+    "cheese": "Mirabo",
+    "english": "Shy, Reclusive, to Hide",
+    "wordclass": "adj/vb"
+  },
+  {
+    "cheese": "Milicaña",
+    "english": "Milk",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Mladi",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Mobay",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Molbo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Mona",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Monastery",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Mondseer",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Monet",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Montagnolo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Montasio",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Monteherne",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Monteo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Montgomery",
+    "english": "Military, Strategy, Strategic",
+    "wordclass": "adj/vb"
+  },
+  {
+    "cheese": "Montsalat",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Moonglo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Moose",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Morangie",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Morbier",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Morcella",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Morgan",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Moringhello",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Morlacco",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Moses",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Mossfield",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Mothais",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Mountaineer",
+    "english": "Useful",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Mozzarella",
+    "english": "Hello",
+    "wordclass": "int/n"
+  },
+  {
+    "cheese": "Mozzarellissima",
+    "english": "Morning",
+    "wordclass": "n/int"
+  },
+  {
+    "cheese": "Muenster",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Muranda",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Murazzano",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Mycella",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Myzithra",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Naboulsi",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Nantais",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Nettle",
+    "english": "Never",
+    "wordclass": "adv"
+  },
+  {
+    "cheese": "Neufchatel",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Nicasio",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Nocciolino",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Nocciolo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Nocturne",
+    "english": "9, Nine, Ninth",
+    "wordclass": "n/adj/adv"
+  },
+  {
+    "cheese": "Nobbelost",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Northumberland",
+    "english": "Book, Notebook",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Noyan",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Nut Rebel",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Oasis",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Oaxaea",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Odysseus",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Ogleshield",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Okanagan",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Olivet",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Olomoucké",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Oltermani",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Oma",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Oregon",
+    "english": "Puzzle",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Oregonroule",
+    "english": "Escape Room",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Oregonzola",
+    "english": "Omniscient, Omniscience",
+    "wordclass": "adj/n"
+  },
+  {
+    "cheese": "Opus 42",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Orkney",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Orla",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Oro",
+    "english": "Gold, Golden",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Oscypek",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Ossau",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Oxford",
+    "english": "Horn",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Pacific",
+    "english": "Water, Wet",
+    "wordclass": "n/adj"
   }
 ]
