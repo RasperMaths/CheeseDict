@@ -3853,5 +3853,500 @@
     "cheese": "Red Leicester",
     "english": "Lettuce",
     "wordclass": "n"
+  },
+  {
+    "cheese": "Regal",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Reggianito",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Remedou",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Requeson",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Reverie",
+    "english": "Dream, to Dream",
+    "wordclass": "n/vb"
+  },
+  {
+    "cheese": "Reypenaer",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Rheba",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Richelieu",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Ricotta",
+    "english": "Vegetable",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "OasiRidders",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Ridgeline",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Rigotte",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Ringwell",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Roccia",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Rochebaron",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Rofumo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Rollot",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Romaniae",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Romano",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Roneal",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Rondo",
+    "english": "Meat",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Roquefort",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Roque",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Rosso",
+    "english": "Red",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Rotwein",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Rougette",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Roule",
+    "english": "Room",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Rouleau",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Royalp",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Royal Rebel",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Rubens",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Rubi",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Rupert",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Rustico",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Rustinu",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Saaland",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Saarenkäse",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sagu",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sage Derby",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Salemville",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Salers",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Saltbush",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sanso",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sancerne",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sandy Creek",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sardo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sarró",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sarton",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sbrinz",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sbronzo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Scallion",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Scamorza",
+    "english": "6, Six, Sixth",
+    "wordclass": "n/adj/adv"
+  },
+  {
+    "cheese": "Schloss",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Seahive",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Seascape",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Seastack",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Selva",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Serat",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Serra",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Shaker",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Shanklish",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sharpham",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sheep",
+    "english": "Hug, to Hug",
+    "wordclass": "n/vb"
+  },
+  {
+    "cheese": "Shelburie",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Shepsog",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Shropshire",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Snowdrop",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sofia",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Somerset",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sonnet",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sonoma",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sosha",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sottocenere",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Soupmaintrain",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Spenwood",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Speziato",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Squaquerone",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Straffordshire",
+    "english": "County, Country, State",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Stanley",
+    "english": "Picture, Image, Photograph",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Stella",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sternschnuppe",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Stilton",
+    "english": "To Speak, to Say, to Talk",
+    "wordclass": "vb"
+  },
+  {
+    "cheese": "Stinking Bishop",
+    "english": "Person, Human",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Strathdon",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Strawberry Moon",
+    "english": "Fruit",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Striegstaler",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Striving",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Suffolk",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sulguni",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sunlight",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sunset Bay",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sussex",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Slipcote",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sveciaost",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Swag",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Swaledale",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sweet Style Swiss",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Swiss",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Takelma",
+    "english": "-",
+    "wordclass": "-"
   }
 ]
