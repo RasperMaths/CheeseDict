@@ -490,11 +490,6 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Bavaria",
-    "english": "Fuck, to fuck",
-    "wordclass": "int/vb"
-  },
-  {
     "cheese": "Bayley",
     "english": "-",
     "wordclass": "-"
@@ -1038,11 +1033,6 @@
     "cheese": "Buttercup",
     "english": "-",
     "wordclass": "-"
-  },
-  {
-    "cheese": "Butterkäse",
-    "english": "Shit, to shit",
-    "wordclass": "n/vb"
   },
   {
     "cheese": "Buttermilk",
@@ -4743,5 +4733,170 @@
     "cheese": "Wakotipu",
     "english": "-",
     "wordclass": "-"
+  },
+  {
+    "cheese": "Waldo Smog",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Wall Street Gold",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Walnut",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Wasabi Disc",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Wasateh",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Waterloo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Waipoos",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Weichkäse",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Wellasley",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Wellington",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Wensleydale",
+    "english": "Welcome",
+    "wordclass": "n/int"
+  },
+  {
+    "cheese": "Westfield",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Weston",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Wigmore",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Willoughby",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Windrush",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Winnimere",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Woodside",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Wookey",
+    "english": "With",
+    "wordclass": "prep"
+  },
+  {
+    "cheese": "Woolly",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Wrångebäck",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Wyfe of Bath",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Xynoloro",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Yarra",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Yeo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Yorkshire",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Za'atar Burrata",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Zamorano",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Zanetti",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Zartschmelzend",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Zelu",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Zigljen",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Zwitser",
+    "english": "2, Two, Second",
+    "wordclass": "n/adj/adv"
   }
 ]
