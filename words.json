@@ -2481,8 +2481,8 @@
   },
   {
     "cheese": "Hopyard",
-    "english": "-",
-    "wordclass": "-"
+    "english": "How, like",
+    "wordclass": "adv"
   },
   {
     "cheese": "Horizon",
@@ -2701,8 +2701,8 @@
   },
   {
     "cheese": "Lacey",
-    "english": "-",
-    "wordclass": "-"
+    "english": "Late, Later",
+    "wordclass": "adj"
   },
   {
     "cheese": "Lady Jane",
@@ -3051,8 +3051,8 @@
   },
   {
     "cheese": "Meira",
-    "english": "-",
-    "wordclass": "-"
+    "english": "To Meet, Meeting",
+    "wordclass": "vb/n"
   },
   {
     "cheese": "Melange",
@@ -4111,8 +4111,8 @@
   },
   {
     "cheese": "Seahive",
-    "english": "-",
-    "wordclass": "-"
+    "english": "To See, to Look, Sight",
+    "wordclass": "vb/n"
   },
   {
     "cheese": "Seascape",
